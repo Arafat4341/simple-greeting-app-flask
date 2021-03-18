@@ -1,1 +1,1 @@
-# test_flask_heroku_app
+# Simple flask app to try out deploying in heroku
